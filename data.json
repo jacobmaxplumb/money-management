@@ -94,6 +94,16 @@
       "id": 19,
       "title": "Learn Redux Thunk",
       "completed": false
+    },
+    {
+      "title": "new title 1",
+      "completed": false,
+      "id": 20
+    },
+    {
+      "title": "new item",
+      "completed": false,
+      "id": 21
     }
   ],
   "people": [
